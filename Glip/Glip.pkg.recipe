@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.gcts.jss-upload.recipe.download.Glip</string>
+	<string>com.gcts.jss-upload.download.Glip</string>
 	<key>Process</key>
 	<array>
 		<dict>
