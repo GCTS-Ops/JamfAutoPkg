@@ -13,7 +13,7 @@
 		<key>CATEGORY</key>
 		<string>Ring Central</string>
 		<key>NAME</key>
-		<string>Glip</string>
+		<string>RingCentral</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
