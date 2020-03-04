@@ -28,6 +28,8 @@
 				<string>%CATEGORY%</string>
 				<key>prod_name</key>
 				<string>%NAME%</string>
+				<key>path_name</key>
+				<string>%path_name%</string>
 			</dict>
 			<key>Processor</key>
 			<string>JSSImporter</string>
