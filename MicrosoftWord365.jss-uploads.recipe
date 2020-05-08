@@ -16,7 +16,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.download.MSWord2019</string>
+    <string>com.github.rtrouton.pkg.microsoftword365</string>
     <key>Process</key>
     <array>
         <dict>
