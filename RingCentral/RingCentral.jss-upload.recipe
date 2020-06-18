@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.gcts.jss-upload.recipe.download.RingCentral</string>
+	<string>com.gcts.jss-upload.recipe.pkg.RingCentral</string>
 	<key>Process</key>
 	<array>
 		<dict>
