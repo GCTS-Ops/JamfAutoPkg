@@ -10,8 +10,8 @@
 	<string>com.gcts.jss-upload.recipe.pkg.RingCentral</string>
 	<key>Input</key>
 	<dict>
-		<key>BUNDLE_ID</key>
-		<string>com.RingCentral.Glip</string>
+		<key>SOFTWARETITLE</key>
+		<string>RingCentral</string>
 		<key>NAME</key>
 		<string>RingCentral</string>
 	</dict>
@@ -36,7 +36,7 @@
 	 		<key>Arguments</key>
 	 		<dict>
 	 			 <key>pattern</key>
-	 			 <string>%RECIPE_CACHE_DIR%/downloads/unpack/*RingCentral*.pkg</string>
+	 			 <string>%RECIPE_CACHE_DIR%/downloads/unpack/com.ringcentral.glip.pkg</string>
 	 		</dict>
 	 		<key>Processor</key>
 	 		<string>FileFinder</string>
@@ -71,7 +71,7 @@
 	 			 <key>source_pkg</key>
 	 			 <string>%pathname%</string>
 	 			 <key>pkg_path</key>
-	 			 <string>%RECIPE_CACHE_DIR%/%VENDOR%_%SOFTWARETITLE%_%version%.pkg</string>
+	 			 <string>%RECIPE_CACHE_DIR%/Ringcentral_%version%.pkg</string>
 	 		</dict>
 	  </dict>
 	  <dict>
