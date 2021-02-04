@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of RingCentral and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.gcts.jss-upload.recipe.jss.RingCentral</string>
+	<string>com.gcts-ops.jss-upload.recipe.jss.RingCentral</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

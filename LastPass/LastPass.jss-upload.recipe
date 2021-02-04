@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of LastPass and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.gcts.jss-upload.recipe.jss.LastPass</string>
+	<string>com.gcts-ops.jss-upload.recipe.jss.LastPass</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -30,7 +30,7 @@
 				<string>%NAME%</string>
 				<key>pkg_path</key>
 				<string>%pkg_path%</string>
-			</dict>	
+			</dict>
 			<key>Processor</key>
 			<string>JSSImporter</string>
 		</dict>
